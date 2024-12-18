@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js From Scratch 2024
+Build a real-world project using Next.js 14 and MongoDB
 
-## Getting Started
+A course by [Brad Traversy](https://www.traversymedia.com)
 
-First, run the development server:
+This course is on [Udemy](https://www.udemy.com/course/nextjs-from-scratch/)
+#
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# My Review
+This is Brad lateset "course" (March 2024) and I wouldn't classify it as a course, it is more of a fun project to build.
+There was many features that were new to me which don't go into detail with but gets used for the sake of using  it.
+THe project overall is really nice and I did learn some things. The course is for a Next.JS introduction and that part 
+is worth it. It made me feel comfortable with Next.js.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+⭐️⭐️⭐️⭐️
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Instructions
+1. Download
+2. Open your termninal
+3. run `npm run build`
+4. run `npm run start`
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+#
+## View some images from the projects below:
 
-## Learn More
+### Home Page:
+![home-page](https://github.com/alpaca-rama/50-Projects-In-50-Days/assets/110612670/97e397ca-6380-4e0d-b531-6509c094b66a)
 
-To learn more about Next.js, take a look at the following resources:
+### Navbar (not logged in):
+![navbar-not-logged-in](https://github.com/alpaca-rama/50-Projects-In-50-Days/assets/110612670/394c94df-3bfc-4c5c-b77f-0a23ff513fa3)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Navbar (logged in):
+![navbar-logged-in](https://github.com/alpaca-rama/50-Projects-In-50-Days/assets/110612670/8a66c596-be4d-4b2a-a342-c34e918a75e2)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Properties Page:
+![properties-page](https://github.com/alpaca-rama/50-Projects-In-50-Days/assets/110612670/dbd45716-79e2-4880-a263-d238f2deda74)
 
-## Deploy on Vercel
+### Property Details Page:
+![property-details-page](https://github.com/alpaca-rama/50-Projects-In-50-Days/assets/110612670/f8818962-5b32-4f37-a95b-a423b9f59793)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Messages Page:
+![messages-page](https://github.com/alpaca-rama/50-Projects-In-50-Days/assets/110612670/017bfe10-222a-4c22-a806-ff420ca2abfc)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Profile Page:
+![profile-page](https://github.com/alpaca-rama/50-Projects-In-50-Days/assets/110612670/fecc605e-869d-41f6-abfb-a232fa196fb8)
+
+### Add Properties Page:
+![add-property-page](https://github.com/alpaca-rama/50-Projects-In-50-Days/assets/110612670/8691db9a-feba-404f-96fa-b2bb5bda411e)
+
+### Edit Property Details page:
+![edit-property-page](https://github.com/alpaca-rama/50-Projects-In-50-Days/assets/110612670/d6568566-656b-4479-997d-16f0d8cb4655)
+
+
+### Saved Properties Page:
+![saved-properties-page](https://github.com/alpaca-rama/50-Projects-In-50-Days/assets/110612670/52f940f7-91a2-4d00-b3bc-44cc19a881c3)
