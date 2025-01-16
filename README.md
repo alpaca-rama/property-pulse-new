@@ -1,5 +1,7 @@
 # Next.js From Scratch 2024
+
 [View Site](https://property-pulse-new-six.vercel.app/)
+
 Build a real-world project using Next.js 14 and MongoDB
 
 A course by [Brad Traversy](https://www.traversymedia.com)
